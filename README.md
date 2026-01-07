@@ -1,7 +1,7 @@
 # Dual-boot-Windows-Linux-Seperate-M.2-drives
 dual drive dual boot linux + windows 
 
-step 0 : Fresh install of windows 11 on first NVME and removed bloatware + OOBE\BYPASSNRO to have a local account 
+step 0 : fresh install of windows 11 on first NVME and removed bloatware + OOBE\BYPASSNRO to have a local account 
 
 setp 1 : in windows control panel - power options - what power buttons do untick fast startup *prevents WiFi driver lockouts when swapping drives*
 
@@ -17,4 +17,5 @@ step 4 : boot to bios select your linux drive as the main boot
 
 step 5 : the linux grub menu will appear 
 
-i did this mainly to seperate my work to linux and my gaming to windows due to compatablilty with certain games,  following this i found the grub menu slightly ugly and outdated looking,  so i later installed refind to have a nice looking menul. 
+i did this mainly to seperate my work to linux and my gaming to windows due to compatablilty with certain games,  following this i found the grub menu slightly ugly and outdated looking, so i later installed refind to have a nice looking menul. 
+to date no issues and working as intended!
