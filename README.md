@@ -17,7 +17,7 @@ step 4 : boot to bios select your linux drive as the main boot
 
 step 5 : the linux grub menu will appear 
 
-i did this mainly to seperate my work to linux and my gaming to windows due to compatablilty with certain games,  following this i found the grub menu slightly ugly and outdated looking, so i later installed refind to have a nice looking menul. 
+i did this mainly to seperate my work to linux and my gaming to windows due to compatablilty with certain games,  following this i found the grub menu slightly ugly and outdated looking, so i later installed refind to have a nice looking gui. 
 to date no issues and working as intended!
 
 <img width="751" height="560" alt="Screenshot from 2026-01-07 14-38-47" src="https://github.com/user-attachments/assets/06e65b54-7061-4124-a395-1c89d469facd" />
